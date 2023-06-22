@@ -1,4 +1,4 @@
-# international Project Based Learning Program with OIT and SIIT
+# International Project Based Learning Program with OIT and SIIT
 
 ## Participating Universities
 - [Osaka Institute of Technology](http://www.oit.ac.jp/english/index.html) (OIT)
