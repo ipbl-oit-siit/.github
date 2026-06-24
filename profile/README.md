@@ -12,4 +12,4 @@
 - [portal](https://github.com/ipbl-oit-siit/portal)
 - [image_recognition](https://github.com/ipbl-oit-siit/image_recognition)
 - [MediaPipeClass](https://github.com/ipbl-oit-siit/MediaPipeClass)
-
+- [drone_programming](https://github.com/ipbl-oit-siit/drone_programming)
